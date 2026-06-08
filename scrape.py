@@ -5,6 +5,7 @@ Created on Tue Sep  3 14:43:17 2024
 @author: ALI CAN
 """
 
+#
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
